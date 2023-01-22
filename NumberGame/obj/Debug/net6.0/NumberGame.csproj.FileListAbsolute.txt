@@ -1,0 +1,45 @@
+C:\Users\sviat\source\repos\NumberGame\NumberGame\bin\Debug\net6.0\NumberGame.exe
+C:\Users\sviat\source\repos\NumberGame\NumberGame\bin\Debug\net6.0\NumberGame.deps.json
+C:\Users\sviat\source\repos\NumberGame\NumberGame\bin\Debug\net6.0\NumberGame.runtimeconfig.json
+C:\Users\sviat\source\repos\NumberGame\NumberGame\bin\Debug\net6.0\NumberGame.dll
+C:\Users\sviat\source\repos\NumberGame\NumberGame\bin\Debug\net6.0\NumberGame.pdb
+C:\Users\sviat\source\repos\NumberGame\NumberGame\obj\Debug\net6.0\NumberGame.csproj.AssemblyReference.cache
+C:\Users\sviat\source\repos\NumberGame\NumberGame\obj\Debug\net6.0\NumberGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sviat\source\repos\NumberGame\NumberGame\obj\Debug\net6.0\NumberGame.AssemblyInfoInputs.cache
+C:\Users\sviat\source\repos\NumberGame\NumberGame\obj\Debug\net6.0\NumberGame.AssemblyInfo.cs
+C:\Users\sviat\source\repos\NumberGame\NumberGame\obj\Debug\net6.0\NumberGame.csproj.CoreCompileInputs.cache
+C:\Users\sviat\source\repos\NumberGame\NumberGame\obj\Debug\net6.0\NumberGame.dll
+C:\Users\sviat\source\repos\NumberGame\NumberGame\obj\Debug\net6.0\refint\NumberGame.dll
+C:\Users\sviat\source\repos\NumberGame\NumberGame\obj\Debug\net6.0\NumberGame.pdb
+C:\Users\sviat\source\repos\NumberGame\NumberGame\obj\Debug\net6.0\NumberGame.genruntimeconfig.cache
+C:\Users\sviat\source\repos\NumberGame\NumberGame\obj\Debug\net6.0\ref\NumberGame.dll
+C:\Users\sviat\OneDrive\Робочий стіл\NumberGame\NumberGame\bin\Debug\net6.0\NumberGame.exe
+C:\Users\sviat\OneDrive\Робочий стіл\NumberGame\NumberGame\bin\Debug\net6.0\NumberGame.deps.json
+C:\Users\sviat\OneDrive\Робочий стіл\NumberGame\NumberGame\bin\Debug\net6.0\NumberGame.runtimeconfig.json
+C:\Users\sviat\OneDrive\Робочий стіл\NumberGame\NumberGame\bin\Debug\net6.0\NumberGame.dll
+C:\Users\sviat\OneDrive\Робочий стіл\NumberGame\NumberGame\bin\Debug\net6.0\NumberGame.pdb
+C:\Users\sviat\OneDrive\Робочий стіл\NumberGame\NumberGame\obj\Debug\net6.0\NumberGame.csproj.AssemblyReference.cache
+C:\Users\sviat\OneDrive\Робочий стіл\NumberGame\NumberGame\obj\Debug\net6.0\NumberGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sviat\OneDrive\Робочий стіл\NumberGame\NumberGame\obj\Debug\net6.0\NumberGame.AssemblyInfoInputs.cache
+C:\Users\sviat\OneDrive\Робочий стіл\NumberGame\NumberGame\obj\Debug\net6.0\NumberGame.AssemblyInfo.cs
+C:\Users\sviat\OneDrive\Робочий стіл\NumberGame\NumberGame\obj\Debug\net6.0\NumberGame.csproj.CoreCompileInputs.cache
+C:\Users\sviat\OneDrive\Робочий стіл\NumberGame\NumberGame\obj\Debug\net6.0\NumberGame.dll
+C:\Users\sviat\OneDrive\Робочий стіл\NumberGame\NumberGame\obj\Debug\net6.0\refint\NumberGame.dll
+C:\Users\sviat\OneDrive\Робочий стіл\NumberGame\NumberGame\obj\Debug\net6.0\NumberGame.pdb
+C:\Users\sviat\OneDrive\Робочий стіл\NumberGame\NumberGame\obj\Debug\net6.0\NumberGame.genruntimeconfig.cache
+C:\Users\sviat\OneDrive\Робочий стіл\NumberGame\NumberGame\obj\Debug\net6.0\ref\NumberGame.dll
+C:\Users\sviat\OneDrive\Робочий стіл\С# проекты\MyProj\NumberGame\NumberGame\bin\Debug\net6.0\NumberGame.exe
+C:\Users\sviat\OneDrive\Робочий стіл\С# проекты\MyProj\NumberGame\NumberGame\bin\Debug\net6.0\NumberGame.deps.json
+C:\Users\sviat\OneDrive\Робочий стіл\С# проекты\MyProj\NumberGame\NumberGame\bin\Debug\net6.0\NumberGame.runtimeconfig.json
+C:\Users\sviat\OneDrive\Робочий стіл\С# проекты\MyProj\NumberGame\NumberGame\bin\Debug\net6.0\NumberGame.dll
+C:\Users\sviat\OneDrive\Робочий стіл\С# проекты\MyProj\NumberGame\NumberGame\bin\Debug\net6.0\NumberGame.pdb
+C:\Users\sviat\OneDrive\Робочий стіл\С# проекты\MyProj\NumberGame\NumberGame\obj\Debug\net6.0\NumberGame.csproj.AssemblyReference.cache
+C:\Users\sviat\OneDrive\Робочий стіл\С# проекты\MyProj\NumberGame\NumberGame\obj\Debug\net6.0\NumberGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sviat\OneDrive\Робочий стіл\С# проекты\MyProj\NumberGame\NumberGame\obj\Debug\net6.0\NumberGame.AssemblyInfoInputs.cache
+C:\Users\sviat\OneDrive\Робочий стіл\С# проекты\MyProj\NumberGame\NumberGame\obj\Debug\net6.0\NumberGame.AssemblyInfo.cs
+C:\Users\sviat\OneDrive\Робочий стіл\С# проекты\MyProj\NumberGame\NumberGame\obj\Debug\net6.0\NumberGame.csproj.CoreCompileInputs.cache
+C:\Users\sviat\OneDrive\Робочий стіл\С# проекты\MyProj\NumberGame\NumberGame\obj\Debug\net6.0\NumberGame.dll
+C:\Users\sviat\OneDrive\Робочий стіл\С# проекты\MyProj\NumberGame\NumberGame\obj\Debug\net6.0\refint\NumberGame.dll
+C:\Users\sviat\OneDrive\Робочий стіл\С# проекты\MyProj\NumberGame\NumberGame\obj\Debug\net6.0\NumberGame.pdb
+C:\Users\sviat\OneDrive\Робочий стіл\С# проекты\MyProj\NumberGame\NumberGame\obj\Debug\net6.0\NumberGame.genruntimeconfig.cache
+C:\Users\sviat\OneDrive\Робочий стіл\С# проекты\MyProj\NumberGame\NumberGame\obj\Debug\net6.0\ref\NumberGame.dll
