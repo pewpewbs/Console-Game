@@ -29,6 +29,7 @@ namespace NumberGame
             string? value;
 
             //ввод ответа до бесконечности пока не будет Yes/yes либо No/no
+            
             while (true)
             {
                 value = Console.ReadLine();
@@ -105,4 +106,5 @@ namespace NumberGame
         }
 
     }
+    //
 }
